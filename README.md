@@ -67,8 +67,8 @@ If you encounter any issues or have questions, feel free to open an issue in thi
 ## Stay Connected
 
 Follow us for updates, sneak peeks, and more:
-- [Twitter](https://twitter.com/DeepSpaceProd)
-- [Discord](https://discord.gg/DeepSpaceProductions)
+- [Twitter](https://twitter.com/DeepSpaceProd_)
+- [Discord](https://discord.gg/62BUZMX3Ue)
 - [YouTube](https://youtube.com/DeepSpaceProductions)
 
 ---
